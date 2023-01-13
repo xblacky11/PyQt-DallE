@@ -24,7 +24,7 @@ Now check the output folder!
 
 Enjoy!
 
-## Project is an Edited version of [dalle2_python]: https://github.com/alxschwrz/dalle2_python
+## Project is an Edited version of [dalle2_python](https://github.com/alxschwrz/dalle2_python)
 
 ## License
 
